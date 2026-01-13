@@ -29,4 +29,4 @@ The primary purpose is to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<Autzm>/<java-madlibs-console>.git
+   git clone https://github.com/<Autzm>/<java-madlibsConsole>.git
